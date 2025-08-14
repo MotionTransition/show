@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "tw": "npx @tailwindcss/cli -i ./static/tw_i.css -o ./static/tw_o.css --watch"
+  }
+}
