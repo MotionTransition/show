@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://motiontransition.github.io/show/'
 languageCode = 'en-us'
 title = 'Motion Transition'
 theme = "hugo-book"
